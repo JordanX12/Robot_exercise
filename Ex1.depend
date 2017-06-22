@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1498090316 source:f:\descargas\ex 1\main.c
+	<stdio.h>
+	"api.h"
+
+1498090135 source:f:\descargas\ex 1\api.c
+	"api.h"
+
+1498089866 f:\descargas\ex 1\api.h
+	<stdint.h>
+	<stdbool.h>
+
+1498090135 source:f:\dropbox\limbo\exercises ingenia\ex 1\api.c
+	"api.h"
+
+1498140723 f:\dropbox\limbo\exercises ingenia\ex 1\api.h
+	<stdint.h>
+	<stdbool.h>
+
+1498090316 source:f:\dropbox\limbo\exercises ingenia\ex 1\main.c
+	<stdio.h>
+	"api.h"
+
